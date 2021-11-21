@@ -1,5 +1,5 @@
 baseurl: https://zhaohuabing.com
-title: Huabing Blog
+title: Data Science Portfolio
 theme: hugo-theme-cleanwhite
 languageCode: en-us
 disqusShortname: ''
@@ -68,7 +68,7 @@ params:
   reward: yes
   sidebar_about_description: Software Developer, Open Source Enthusiast and Life Adventurer
   sidebar_avatar: img/zhaohuabing.png
-  slogan: 路在脚下，心向远方
+  slogan: Josh Arford
   social:
     email: youremail@gmail.com
     github: https://github.com/yourgithub
